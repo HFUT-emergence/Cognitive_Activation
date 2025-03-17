@@ -23,10 +23,10 @@ All authors of this paper are from the School of Management at Hefei University 
 ### **Notes**
 Reproducible code and sample data are currently being organized, and the paper is being uploaded to Arxiv, with continuous updates to follow.
 
-Cite this paper:
+### **Cite this paper**
 @article{
   title={Cognitive Activation and Chaotic Dynamics in Large Language Models: A Quasi-Lyapunov Analysis of Reasoning Mechanisms},
   author={Xiaojian Li, Yongkang Leng, Ruiqing Ding, Hangjie Mo, Shanlin Yang},
-  journal={arXiv preprint arXiv:2301.12345},
+  journal={https://github.com/HFUT-emergence/LLMs-Emergence-Mechanism},
   year={2025}
 }
