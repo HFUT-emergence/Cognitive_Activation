@@ -27,6 +27,6 @@ Reproducible code and sample data are currently being organized, and the paper i
 @article{
   title={Cognitive Activation and Chaotic Dynamics in Large Language Models: A Quasi-Lyapunov Analysis of Reasoning Mechanisms},
   author={Xiaojian Li, Yongkang Leng, Ruiqing Ding, Hangjie Mo, Shanlin Yang},
-  journal={https://github.com/HFUT-emergence/LLMs-Emergence-Mechanism},
+  journal={arXiv:2503.13530},
   year={2025}
 }
