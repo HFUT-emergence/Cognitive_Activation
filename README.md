@@ -21,7 +21,8 @@ Cognitive Activation and Chaotic Dynamics in Large Language Models: A Quasi-Lyap
 All authors of this paper are from the School of Management at Hefei University of Technology, dedicated to exploring the emergence mechanisms of large language models.
 
 ### **Notes**
-Reproducible code and sample data are currently being organized, and the paper is being uploaded to Arxiv, with continuous updates to follow.
+Reproducible code and sample data are currently being organized, and the paper is being uploaded to Arxiv(
+https://doi.org/10.48550/arXiv.2503.13530), with continuous updates to follow.
 
 ### **Cite this paper**
 @article{
